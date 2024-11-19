@@ -8,4 +8,4 @@ You will lose a life if you touch one of the moving dangers but gems will give y
 
 # Installation
 This game usese PImage to load the graphical interface for the game to run on.\
-Use WASD to move your charachter.\
+Use WASD to move your charachter.
